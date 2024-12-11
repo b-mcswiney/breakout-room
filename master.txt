@@ -1,4 +1,4 @@
-This is the master branch
+This is the master branch. This is from main and here to cause a merge conflict!
 It has some content from main and from a branch
 !!!!!!!!!!!!
 Crazy this content was added in a branch !!!!!
