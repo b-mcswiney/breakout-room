@@ -1,4 +1,2 @@
-This is the master branch. This text is here to conflict with main. This is from main and here to cause a merge conflict!
+This is the master branch. this is from a branch
 It has some content from main and from a branch
-!!!!!!!!!!!!
-Crazy this content was added in a branch !!!!!
